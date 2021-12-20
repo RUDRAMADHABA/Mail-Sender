@@ -1,0 +1,23 @@
+{
+  "name": "mailsender",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Quizzine/mailSender.git"
+  },
+  "author": "Aryan Pa_",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Quizzine/mailSender/issues"
+  },
+  "homepage": "https://github.com/Quizzine/mailSender#readme",
+  "dependencies": {
+    "firebase": "^9.6.1",
+    "nodemailer": "^6.7.2"
+  }
+}
